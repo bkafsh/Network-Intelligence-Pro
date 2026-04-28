@@ -36,23 +36,6 @@ Python: 3.x
 
 Standard Libraries: tkinter, socket, threading, subprocess, ssl, json.
 
-⚙️ Installation
-Clone the repository:
-
-Bash
-git clone https://github.com/yourusername/network-intelligence-pro.git
-cd network-intelligence-pro
-Run the application:
-
-Bash
-python "Network Intelligence Pro V1.01.py"
-🖥️ Usage
-Discovery: Select your network adapter from the dropdown, verify the base IP, and click Start Discovery.
-
-Port Scanning: Enter a target (IP or Domain) and a port list (e.g., 80, 443, 3389) or a range (e.g., 20-100). Use the checkboxes to toggle between TCP and UDP.
-
-IP Lookup: Simply enter an external IP address to see the registration and location data.
-
 🛡️ Disclaimer
 This tool is intended for educational and professional network administration purposes only. Always ensure you have explicit permission before scanning networks or devices you do not own.
 
